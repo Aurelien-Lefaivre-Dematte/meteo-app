@@ -4,7 +4,7 @@
 
 ### PRESENTATION
 
-Cette application vous permet de connaitre la météo du jour, et ceci en vous connectant à l'API du site [AQAir (https://www.iqair.com/fr/)]
+Cette application vous permet de connaitre la météo du jour, et ceci en vous connectant à l'API du site [AQAir](https://www.iqair.com/fr/)
 
 ### INSTALLATION
 
@@ -20,7 +20,7 @@ Cette application vous permet de connaitre la météo du jour, et ceci en vous c
 
 ### PRESENTATION
 
-This application allows you to know the weather of the day, by connecting to the API of the site [AQAir (https://www.iqair.com/fr/)]
+This application allows you to know the weather of the day, by connecting to the API of the site [AQAir](https://www.iqair.com/fr/)
 
 ### FACILITY
 
